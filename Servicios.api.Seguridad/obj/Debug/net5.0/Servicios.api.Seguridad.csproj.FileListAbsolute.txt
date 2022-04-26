@@ -63,3 +63,7 @@ C:\Solution\Udemy\Libreria\ServiciosLibreria\Duvan16\ServiciosLibreria\Servicios
 C:\Solution\Udemy\Libreria\ServiciosLibreria\Duvan16\ServiciosLibreria\Servicios.api.Seguridad\obj\Debug\net5.0\Servicios.api.Seguridad.pdb
 C:\Solution\Udemy\Libreria\ServiciosLibreria\Duvan16\ServiciosLibreria\Servicios.api.Seguridad\obj\Debug\net5.0\Servicios.api.Seguridad.genruntimeconfig.cache
 C:\Solution\Udemy\Libreria\ServiciosLibreria\Duvan16\ServiciosLibreria\Servicios.api.Seguridad\obj\Debug\net5.0\ref\Servicios.api.Seguridad.dll
+C:\Solution\Udemy\Libreria\ServiciosLibreria\Duvan16\ServiciosLibreria\Servicios.api.Seguridad\bin\Debug\net5.0\MediatR.dll
+C:\Solution\Udemy\Libreria\ServiciosLibreria\Duvan16\ServiciosLibreria\Servicios.api.Seguridad\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Solution\Udemy\Libreria\ServiciosLibreria\Duvan16\ServiciosLibreria\Servicios.api.Seguridad\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Solution\Udemy\Libreria\ServiciosLibreria\Duvan16\ServiciosLibreria\Servicios.api.Seguridad\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
