@@ -72,3 +72,6 @@ C:\Solution\Udemy\Libreria\ServiciosLibreria\Duvan16\ServiciosLibreria\Servicios
 C:\Solution\Udemy\Libreria\ServiciosLibreria\Duvan16\ServiciosLibreria\Servicios.api.Seguridad\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
 C:\Solution\Udemy\Libreria\ServiciosLibreria\Duvan16\ServiciosLibreria\Servicios.api.Seguridad\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 C:\Solution\Udemy\Libreria\ServiciosLibreria\Duvan16\ServiciosLibreria\Servicios.api.Seguridad\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Solution\Udemy\Libreria\ServiciosLibreria\Duvan16\ServiciosLibreria\Servicios.api.Seguridad\bin\Debug\net5.0\FluentValidation.dll
+C:\Solution\Udemy\Libreria\ServiciosLibreria\Duvan16\ServiciosLibreria\Servicios.api.Seguridad\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Solution\Udemy\Libreria\ServiciosLibreria\Duvan16\ServiciosLibreria\Servicios.api.Seguridad\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll

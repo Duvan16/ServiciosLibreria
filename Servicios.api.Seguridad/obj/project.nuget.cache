@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "pXB+XLVIieVsPS9+8kIEKS1Mmqd41cMd3SSwpAubGu8Bujn3XBc6ejkE0antvVUnUPhw9EreqyHJlPfGe/lVfw==",
+  "dgSpecHash": "uBI84pz0BRADQwv06QYoi7bhXTqgyy5k1u3V3YF49idZEnmVvt/q96Xpn6EnnyPT2OQWdNZDO2mz+17v1XaHow==",
   "success": true,
   "projectFilePath": "C:\\Solution\\Udemy\\Libreria\\ServiciosLibreria\\Duvan16\\ServiciosLibreria\\Servicios.api.Seguridad\\Servicios.api.Seguridad.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\duvan\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\duvan\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\duvan\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
+    "C:\\Users\\duvan\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.4.0\\fluentvalidation.aspnetcore.10.4.0.nupkg.sha512",
+    "C:\\Users\\duvan\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.4.0\\fluentvalidation.dependencyinjectionextensions.10.4.0.nupkg.sha512",
     "C:\\Users\\duvan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\duvan\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\duvan\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

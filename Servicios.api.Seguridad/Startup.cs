@@ -1,3 +1,4 @@
+using FluentValidation.AspNetCore;
 using MediatR;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Builder;
@@ -47,6 +48,8 @@ namespace Servicios.api.Seguridad
 
             services.AddMediatR(typeof(Register.UsuarioRegisterCommand).Assembly);
             services.AddAutoMapper(typeof(Register.UsuarioRegisterHander));
+
+            services.AddControllers().AddFluentValidation(x => x.RegisterValidatorsFromAssemblyContaining<Register>());
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
