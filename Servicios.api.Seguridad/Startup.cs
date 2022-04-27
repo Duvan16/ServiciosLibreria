@@ -1,3 +1,4 @@
+using MediatR;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -43,6 +44,8 @@ namespace Servicios.api.Seguridad
             identityBuilder.AddEntityFrameworkStores<SeguridadContexto>();
             identityBuilder.AddSignInManager<SignInManager<Usuario>>();
             services.TryAddSingleton<ISystemClock, SystemClock>();
+
+            services.AddMediatR(typeof(Register.UsuarioRegisterCommand).Assembly);
             services.AddAutoMapper(typeof(Register.UsuarioRegisterHander));
 
             services.AddControllers();

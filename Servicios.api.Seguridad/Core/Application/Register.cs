@@ -45,7 +45,7 @@ namespace Servicios.api.Seguridad.Core.Application
                     throw new Exception("El email del usuario ya existe en la base de datos");
                 }
 
-                existe = await _context.Users.Where(x => x.UserName == request.Username).AllAsync();
+                existe = await _context.Users.Where(x => x.UserName == request.Username).AnyAsync();
                 if (existe)
                 {
                     throw new Exception("El username del usuario ya existe en la base de datos");
