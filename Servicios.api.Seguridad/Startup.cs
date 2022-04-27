@@ -10,6 +10,7 @@ using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Servicios.api.Seguridad.Core.Application;
 using Servicios.api.Seguridad.Core.Entities;
 using Servicios.api.Seguridad.Core.Persistence;
 using System;
@@ -42,6 +43,7 @@ namespace Servicios.api.Seguridad
             identityBuilder.AddEntityFrameworkStores<SeguridadContexto>();
             identityBuilder.AddSignInManager<SignInManager<Usuario>>();
             services.TryAddSingleton<ISystemClock, SystemClock>();
+            services.AddAutoMapper(typeof(Register.UsuarioRegisterHander));
 
             services.AddControllers();
             services.AddSwaggerGen(c =>

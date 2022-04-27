@@ -67,3 +67,8 @@ C:\Solution\Udemy\Libreria\ServiciosLibreria\Duvan16\ServiciosLibreria\Servicios
 C:\Solution\Udemy\Libreria\ServiciosLibreria\Duvan16\ServiciosLibreria\Servicios.api.Seguridad\bin\Debug\net5.0\MediatR.Contracts.dll
 C:\Solution\Udemy\Libreria\ServiciosLibreria\Duvan16\ServiciosLibreria\Servicios.api.Seguridad\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
 C:\Solution\Udemy\Libreria\ServiciosLibreria\Duvan16\ServiciosLibreria\Servicios.api.Seguridad\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Solution\Udemy\Libreria\ServiciosLibreria\Duvan16\ServiciosLibreria\Servicios.api.Seguridad\bin\Debug\net5.0\AutoMapper.dll
+C:\Solution\Udemy\Libreria\ServiciosLibreria\Duvan16\ServiciosLibreria\Servicios.api.Seguridad\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Solution\Udemy\Libreria\ServiciosLibreria\Duvan16\ServiciosLibreria\Servicios.api.Seguridad\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Solution\Udemy\Libreria\ServiciosLibreria\Duvan16\ServiciosLibreria\Servicios.api.Seguridad\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Solution\Udemy\Libreria\ServiciosLibreria\Duvan16\ServiciosLibreria\Servicios.api.Seguridad\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
